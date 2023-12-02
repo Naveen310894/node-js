@@ -1,5 +1,5 @@
 # Simple Notes App
-THIS IS TO TEST THE WEBHOOK WORKING
+THIS IS TO CHECK THE WEBHOOK WORKING
 This is a simple notes app built with React and Django.
 
 ## Requirements
