@@ -42,6 +42,7 @@ def getRoutes(request):
     ]
     return Response(routes)
 
+# The functions for respective methods
 @api_view(['GET'])
 def getNotes(request):
     notes = Note.objects.all().order_by('-created')
